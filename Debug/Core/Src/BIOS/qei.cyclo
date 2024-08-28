@@ -1,0 +1,8 @@
+../Core/Src/BIOS/qei.c:37:6:QEIInit	12
+../Core/Src/BIOS/qei.c:136:6:QEIPrintValueStore	1
+../Core/Src/BIOS/qei.c:159:6:QEIWrite	7
+../Core/Src/BIOS/qei.c:201:6:QEIReset	7
+../Core/Src/BIOS/qei.c:243:6:QEISwap	19
+../Core/Src/BIOS/qei.c:316:6:QEIDelay	2
+../Core/Src/BIOS/qei.c:336:9:QEIRead	7
+../Core/Src/BIOS/qei.c:380:10:QEIReadRaw	7

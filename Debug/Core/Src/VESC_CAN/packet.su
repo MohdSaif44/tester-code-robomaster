@@ -1,0 +1,5 @@
+../Core/Src/VESC_CAN/packet.c:28:6:packet_init	24	static
+../Core/Src/VESC_CAN/packet.c:35:6:packet_reset	16	static
+../Core/Src/VESC_CAN/packet.c:41:6:packet_send_packet	32	static
+../Core/Src/VESC_CAN/packet.c:89:6:packet_process_byte	24	static
+../Core/Src/VESC_CAN/packet.c:169:12:try_decode_packet	48	static

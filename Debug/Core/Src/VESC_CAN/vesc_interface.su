@@ -1,0 +1,17 @@
+../Core/Src/VESC_CAN/vesc_interface.c:18:6:VESCInit	24	static
+../Core/Src/VESC_CAN/vesc_interface.c:54:6:VESCUARTInit	24	static
+../Core/Src/VESC_CAN/vesc_interface.c:86:6:VESCVelocity	72	static
+../Core/Src/VESC_CAN/vesc_interface.c:114:6:VESCRPM	32	static
+../Core/Src/VESC_CAN/vesc_interface.c:158:6:VESCPDC	32	static
+../Core/Src/VESC_CAN/vesc_interface.c:200:6:VESCPOS	32	static
+../Core/Src/VESC_CAN/vesc_interface.c:231:6:VESCCurr	32	static
+../Core/Src/VESC_CAN/vesc_interface.c:256:6:VESCStop	16	static
+../Core/Src/VESC_CAN/vesc_interface.c:310:6:VESCReleaseMotor	16	static
+../Core/Src/VESC_CAN/vesc_interface.c:335:6:VESCHandBrake	16	static
+../Core/Src/VESC_CAN/vesc_interface.c:354:6:VESCCurrBrake	16	static
+../Core/Src/VESC_CAN/vesc_interface.c:365:6:bldc_send_packet	24	static
+../Core/Src/VESC_CAN/vesc_interface.c:378:6:VESCGetSpeed	40	static
+../Core/Src/VESC_CAN/vesc_interface.c:400:6:VESCGetDist	40	static
+../Core/Src/VESC_CAN/vesc_interface.c:422:6:VESCEnquire	16	static
+../Core/Src/VESC_CAN/vesc_interface.c:441:6:VESCSetPosOffset	16	static
+../Core/Src/VESC_CAN/vesc_interface.c:457:6:VESCSetDist	48	static

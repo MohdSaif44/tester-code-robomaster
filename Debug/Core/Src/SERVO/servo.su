@@ -1,0 +1,8 @@
+../Core/Src/SERVO/servo.c:33:6:ServoxInit	56	static
+../Core/Src/SERVO/servo.c:137:6:ServoSetPulse	16	static
+../Core/Src/SERVO/servo.c:160:6:ServoInitAngle	16	static
+../Core/Src/SERVO/servo.c:179:6:ServoSetAngle	16	static
+../Core/Src/SERVO/servo.c:200:6:ServoSetAngle_Sec	16	static
+../Core/Src/SERVO/servo.c:222:6:ServoInitPulseLimit	24	static
+../Core/Src/SERVO/servo.c:238:6:ServoMovePulse	16	static
+../Core/Src/SERVO/servo.c:261:6:ServoMoveAngle	16	static

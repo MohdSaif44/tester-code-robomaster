@@ -1,0 +1,2 @@
+../Core/Src/BIOS/gpio.c:19:6:GPIOClockSet	48	static
+../Core/Src/BIOS/gpio.c:65:6:GPIOPinsInit	80	static

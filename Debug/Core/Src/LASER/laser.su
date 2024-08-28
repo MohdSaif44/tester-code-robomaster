@@ -1,0 +1,3 @@
+../Core/Src/LASER/laser.c:38:6:LaserInit	32	static
+../Core/Src/LASER/laser.c:53:6:Laser	16	static
+../Core/Src/LASER/laser.c:73:6:LaserUpdate	32	static

@@ -1,0 +1,17 @@
+../Core/Src/VESC_CAN/vesc_interface.c:18:6:VESCInit	1
+../Core/Src/VESC_CAN/vesc_interface.c:54:6:VESCUARTInit	1
+../Core/Src/VESC_CAN/vesc_interface.c:86:6:VESCVelocity	1
+../Core/Src/VESC_CAN/vesc_interface.c:114:6:VESCRPM	12
+../Core/Src/VESC_CAN/vesc_interface.c:158:6:VESCPDC	10
+../Core/Src/VESC_CAN/vesc_interface.c:200:6:VESCPOS	10
+../Core/Src/VESC_CAN/vesc_interface.c:231:6:VESCCurr	10
+../Core/Src/VESC_CAN/vesc_interface.c:256:6:VESCStop	8
+../Core/Src/VESC_CAN/vesc_interface.c:310:6:VESCReleaseMotor	2
+../Core/Src/VESC_CAN/vesc_interface.c:335:6:VESCHandBrake	2
+../Core/Src/VESC_CAN/vesc_interface.c:354:6:VESCCurrBrake	2
+../Core/Src/VESC_CAN/vesc_interface.c:365:6:bldc_send_packet	1
+../Core/Src/VESC_CAN/vesc_interface.c:378:6:VESCGetSpeed	2
+../Core/Src/VESC_CAN/vesc_interface.c:400:6:VESCGetDist	2
+../Core/Src/VESC_CAN/vesc_interface.c:422:6:VESCEnquire	2
+../Core/Src/VESC_CAN/vesc_interface.c:441:6:VESCSetPosOffset	2
+../Core/Src/VESC_CAN/vesc_interface.c:457:6:VESCSetDist	2

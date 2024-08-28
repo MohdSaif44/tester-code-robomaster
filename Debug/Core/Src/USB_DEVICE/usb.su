@@ -1,0 +1,4 @@
+../Core/Src/USB_DEVICE/usb.c:20:6:usbParserinit	16	static
+../Core/Src/USB_DEVICE/usb.c:38:6:usbHandler	88	static
+../Core/Src/USB_DEVICE/usb.c:58:6:usbSend	24	static
+../Core/Src/USB_DEVICE/usb.c:78:6:usbPrint	112	static

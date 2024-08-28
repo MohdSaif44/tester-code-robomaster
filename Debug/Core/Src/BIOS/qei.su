@@ -1,0 +1,8 @@
+../Core/Src/BIOS/qei.c:37:6:QEIInit	64	static
+../Core/Src/BIOS/qei.c:136:6:QEIPrintValueStore	152	static
+../Core/Src/BIOS/qei.c:159:6:QEIWrite	16	static
+../Core/Src/BIOS/qei.c:201:6:QEIReset	16	static
+../Core/Src/BIOS/qei.c:243:6:QEISwap	16	static
+../Core/Src/BIOS/qei.c:316:6:QEIDelay	24	static
+../Core/Src/BIOS/qei.c:336:9:QEIRead	24	static
+../Core/Src/BIOS/qei.c:380:10:QEIReadRaw	24	static

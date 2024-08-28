@@ -1,0 +1,12 @@
+../Core/Src/Faulhaber/Faulhaber_Interface.c:45:6:FaulHaber_Init	32	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:71:6:FaulHaber_Change_Soft_Pos_Limit	40	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:89:6:FaulHaber_Init_Pos	40	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:115:6:FaulHaber_Change_Operation_Mode	32	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:129:6:FaulHaber_Move_Pos	40	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:146:6:FaulHaber_Velocity	32	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:162:6:FaulHaber_Can_Handler	24	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:194:6:FaulHaber_Enquire_Pos	16	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:212:6:FaulHaber_Change_Profile_Velocity	32	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:233:6:FaulHaber_Change_PDO_Transmission_Type	32	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:240:6:FaulHaber_Quick_Stop	32	static
+../Core/Src/Faulhaber/Faulhaber_Interface.c:245:6:FaulHaber_Reset	32	static

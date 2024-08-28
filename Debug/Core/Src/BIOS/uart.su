@@ -1,0 +1,6 @@
+../Core/Src/BIOS/uart.c:16:6:UARTInit	32	static
+../Core/Src/BIOS/uart.c:111:6:UARTx_DMA_Rx_Init	40	static
+../Core/Src/BIOS/uart.c:185:6:UARTx_DMA_Tx_Init	32	static
+../Core/Src/BIOS/uart.c:257:10:USART_ReceiveData	16	static
+../Core/Src/BIOS/uart.c:272:6:UARTPrintString	16	static
+../Core/Src/BIOS/uart.c:286:6:UARTPrintString_IT	16	static

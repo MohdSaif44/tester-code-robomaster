@@ -1,0 +1,4 @@
+../Core/Src/common.c:7:6:set	8	static
+../Core/Src/common.c:32:6:Testboard_Handler	8	static
+../Core/Src/common.c:269:6:UART_Send	8	static
+../Core/Src/common.c:274:6:Prompt	24	static

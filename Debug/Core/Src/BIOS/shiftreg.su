@@ -1,0 +1,2 @@
+../Core/Src/BIOS/shiftreg.c:32:6:SHIFTREGInit	32	static
+../Core/Src/BIOS/shiftreg.c:61:6:SHIFTREGShift	24	static

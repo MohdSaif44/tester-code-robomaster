@@ -1,0 +1,7 @@
+../Core/Src/CAN/can.c:44:6:CANxInit	64	static
+../Core/Src/CAN/can.c:155:10:CAN_TxMsg	72	static
+../Core/Src/CAN/can.c:208:10:CAN_TxMsgEID	72	static
+../Core/Src/CAN/can.c:247:10:CAN_OPEN_TxMsg	72	static
+../Core/Src/CAN/can.c:286:10:CAN_TxRTR	48	static
+../Core/Src/CAN/can.c:309:10:CAN_Open_TxSync	48	static
+../Core/Src/CAN/can.c:332:10:CAN_Rns_TxSync	48	static

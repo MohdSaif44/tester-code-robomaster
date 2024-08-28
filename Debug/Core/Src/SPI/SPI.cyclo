@@ -1,0 +1,9 @@
+../Core/Src/SPI/SPI.c:26:6:SPIxInit	5
+../Core/Src/SPI/SPI.c:71:6:SPIx_DMA_TX_Init	2
+../Core/Src/SPI/SPI.c:99:6:SPIx_DMA_RX_Init	2
+../Core/Src/SPI/SPI.c:136:6:SPITransmit	1
+../Core/Src/SPI/SPI.c:152:6:SPIReceive	1
+../Core/Src/SPI/SPI.c:169:6:SPI_Transmit_Receive	1
+../Core/Src/SPI/SPI.c:181:6:SPI1_IRQHandler	1
+../Core/Src/SPI/SPI.c:194:6:SPI2_IRQHandler	1
+../Core/Src/SPI/SPI.c:207:6:SPI3_IRQHandler	1

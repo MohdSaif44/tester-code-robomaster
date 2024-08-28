@@ -1,0 +1,9 @@
+../Core/Src/I2C/i2c.c:23:6:I2CxInit	32	static
+../Core/Src/I2C/i2c.c:95:6:I2CX_DMA_RX_Init	40	static
+../Core/Src/I2C/i2c.c:218:19:I2CSend	304	static
+../Core/Src/I2C/i2c.c:247:19:I2CSendV	296	static
+../Core/Src/I2C/i2c.c:277:6:I2CWriteReg8	32	static
+../Core/Src/I2C/i2c.c:298:9:I2CReadReg8	40	static
+../Core/Src/I2C/i2c.c:319:6:I2C1_EV_IRQHandler	8	static
+../Core/Src/I2C/i2c.c:356:6:I2C2_EV_IRQHandler	8	static
+../Core/Src/I2C/i2c.c:386:6:I2C3_EV_IRQHandler	8	static

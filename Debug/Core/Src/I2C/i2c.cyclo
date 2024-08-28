@@ -1,0 +1,9 @@
+../Core/Src/I2C/i2c.c:23:6:I2CxInit	7
+../Core/Src/I2C/i2c.c:95:6:I2CX_DMA_RX_Init	9
+../Core/Src/I2C/i2c.c:218:19:I2CSend	2
+../Core/Src/I2C/i2c.c:247:19:I2CSendV	2
+../Core/Src/I2C/i2c.c:277:6:I2CWriteReg8	1
+../Core/Src/I2C/i2c.c:298:9:I2CReadReg8	1
+../Core/Src/I2C/i2c.c:319:6:I2C1_EV_IRQHandler	1
+../Core/Src/I2C/i2c.c:356:6:I2C2_EV_IRQHandler	1
+../Core/Src/I2C/i2c.c:386:6:I2C3_EV_IRQHandler	1

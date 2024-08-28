@@ -1,0 +1,11 @@
+../Core/Src/MODN/MODN.c:36:6:MODNInit	1
+../Core/Src/MODN/MODN.c:59:6:LegacyMODN	10
+../Core/Src/MODN/MODN.c:119:6:realMODN	5
+../Core/Src/MODN/MODN.c:163:6:imuRealMODN	11
+../Core/Src/MODN/MODN.c:231:6:movableRealMODN	9
+../Core/Src/MODN/MODN.c:281:6:autoorientMODN	13
+../Core/Src/MODN/MODN.c:341:6:ApplyMODN	10
+../Core/Src/MODN/MODN.c:374:6:setOrientationMODN	1
+../Core/Src/MODN/MODN.c:379:6:setSpeedMODN	1
+../Core/Src/MODN/MODN.c:385:6:setImuGainMODN	1
+../Core/Src/MODN/MODN.c:389:6:setDelayMODN	1
